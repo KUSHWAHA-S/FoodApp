@@ -1,8 +1,10 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+
+html,body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Exo 2', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +12,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root{
+  --primary: #0d3b74;
+  --secondary:#afc7d3;
+  --contentP:rgb(214, 215, 218);
+  --error:rgb(151, 46, 46);
+  --color1: #009FBD;
+  --color2:#017c94;
+  --color3:#ebe9e9;
+  --color4:#c0dae7;
+  --logoFont:'Bruno Ace SC', cursive;
+  --logoFontWeight: bold;
 }

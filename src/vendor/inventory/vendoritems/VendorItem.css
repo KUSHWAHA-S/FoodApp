@@ -1,0 +1,122 @@
+.nav-add-item-btn{
+    display: flex!important;
+    flex-direction: row;
+    margin-left: 10px!important;
+}
+
+.nav-head{
+    background-color: rgb(123, 120, 155)!important;
+}
+
+.add-category-vendor-btn{
+    margin-left: 10px!important;
+}
+
+.add-category-vendor-btn:hover{
+    background-color: rgb(84, 44, 158)!important;
+}
+
+.add-item-vendor-btn{
+    margin-left: 10px!important;
+}
+
+.add-item-vendor-btn:hover{
+    background-color: rgb(84, 44, 158)!important ;
+}
+
+.search-div{
+    margin-top: 10px!important;
+    margin-left: 30px;
+}
+
+.vendor-category-div{
+    margin-top: 20px!important;
+}
+
+.item-view-div{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 80%;
+    margin-left: 10px;
+
+}
+
+.item-list-view-div{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.itemdetails-view-div{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+}
+
+.food-type-view{
+    margin-left: 35px;
+}
+
+.category-view{
+    margin-left: 35px;
+}
+
+.card-view{
+    width: 100%;
+    background-color: rgb(229, 226, 226)!important;
+}
+
+.update-btn-view:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.delete-btn-view:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.item-price-view-div{
+    margin-top: 10px;
+}
+
+.hotbites-image-view{
+    width: 150px;
+    height: 150px;
+}
+
+.hotbites-logo-div-view{
+    margin-left: 4px;
+}
+
+.hotbites-heading-view{
+    margin-left: 4px;
+}
+
+.number-of-items-view{
+    margin-left: 35px;
+}
+
+.tab-category{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%;
+}
+
+.tag-css{
+    text-transform: capitalize!important;
+}
+
+.tag-css:focus{
+    background-color:rgb(178, 206, 230)!important;
+    color: rgb(66, 66, 196)!important;
+}
+
+.add-btn-div{
+    display: flex;
+    margin-left: 20px!important;
+}
+
+.no-item-div{
+    height: 200px;
+    margin-left: 30px;
+}

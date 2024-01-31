@@ -1,0 +1,79 @@
+.add-category-form-div{
+    background-color:rgb(229, 226, 226);
+    box-shadow: 5px 5px 5px 5px rgb(162, 155, 155);
+    width: 85vw;
+    margin-left: 5rem;
+    margin-top: 50px;
+}
+
+
+
+.add-category-heading{
+    margin-left: 1rem;
+}
+
+.add-category-textfield{
+    margin-left: 15rem!important;
+    height: 40px!important;
+    width: 30vw;
+}
+
+.add-category-btn-div{
+    margin-top: 2rem!important;
+    margin-bottom: 60px!important;
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.back-to-itemlist-btn-category{
+    margin-left: 20px!important;
+    margin-top: 20px!important;
+}
+
+.back-to-itemlist-btn-category:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.add-category-btn{
+    height: 40px;
+    margin-top: 8px!important;
+    margin-left: 20px!important;
+}
+
+.add-category-btn:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.hotbites-image-category{
+    width: 150px;
+    height: 150px;
+}
+
+.hotbites-logo-div-category{
+    margin-left: 5px;
+}
+
+.hotbite-heading-category{
+    margin-left: 5px;
+}
+
+.category-table-div{
+    width: 60vw;
+    margin-left: 150px;
+    margin-bottom: 60px;
+}
+
+.back-icon-div-category{
+    display: flex;
+    flex-direction: row;
+}
+
+.category-err-para{
+    color: red;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+

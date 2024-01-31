@@ -1,0 +1,178 @@
+.update-item-container{
+    width: 50vw;
+    margin-left: 18rem;
+    background-color:rgb(229, 226, 226);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(162, 155, 155);
+}
+
+
+.item-name-div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.quantity-div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.number-of-item-div-update{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.item-price-div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.description-div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.food-type-div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.update-category-div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.add-item-btn-div{
+    margin-top: 40px;
+}
+
+.item-name-label{
+    margin-left: 160px;
+    font-weight: bold;
+
+}
+
+.item-name-textfield{
+    margin-left: 80px!important;
+}
+
+.quantity-label{
+    margin-left: 160px;
+    font-weight: bold;
+
+}
+
+.quantity-textfield{
+    margin-left: 95px!important;
+
+}
+
+.number-of-item-label-update{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.number-of-item-textfield-update{
+    margin-left: 36px!important;
+}
+
+.item-price-label{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.item-price-textfield{
+    margin-left: 83px!important;
+
+}
+
+.description-label{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.description-textfield{
+    margin-left: 73px!important;
+    width:220px;
+
+}
+
+.food-type-label{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+
+.update-category-label{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.update-category-textfield{
+    margin-left: 90px!important;
+}
+
+.update-item-btn-div{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.update-item-btn{
+    margin-left: 250px!important;
+    margin-bottom: 30px!important;
+}
+
+.update-item-btn:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.updateitem-heading{
+    margin-left: 40px;
+}
+.update-back-to-itemlist-btn{
+    margin-left: 30px!important;
+}
+
+.update-back-to-itemlist-btn:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.update-radio-btn{
+    margin-left: 90px!important;
+}
+
+.update-category-dropdown{
+    margin-left: 85px!important;
+}
+
+.hotbites-image-update{
+    width: 150px;
+    height: 150px;
+}
+
+.hotbites-logo-div-update{
+    margin-left: 5px;
+}
+
+.hotbite-heading-update{
+    margin-left: 4px;
+}
+
+.back-icon-div-update{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.update-icon-back-list-btn:hover{
+    background-color: rgb(67, 60, 150)!important;
+}

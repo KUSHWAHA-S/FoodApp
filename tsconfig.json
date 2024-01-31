@@ -1,6 +1,12 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "ES6",
+    "noImplicitAny": false,
+    "typeRoots": [
+      "@types/react-router-dom"
+      
+    ],
+    "types":["@types/jest"],
     "lib": [
       "dom",
       "dom.iterable",

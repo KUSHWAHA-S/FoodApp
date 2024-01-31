@@ -1,0 +1,120 @@
+/* .homePage{
+    
+    background-image: url('https://cdn.shopify.com/s/files/1/1574/6757/t/4/assets/home_ad_1.jpg?9');
+    background-repeat: no-repeat;
+    
+    align-items: center;
+    width: 100%;
+    position:fixed
+    
+} */
+.homePage {
+
+    /* background-image: url("../user/login/images/background.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin: 0;
+    padding: 0 !important;
+    /* background-color: rgb(126, 157, 185); */
+
+    min-height: 100vh;
+    padding-top: 1%;
+}
+
+.background3 {
+    background-image: url("images/food1.png");
+}
+
+.background2 {
+    background-image: url("images/food2.png");
+}
+
+.background1 {
+    background-image: url("images/food3.png");
+}
+
+.homePageHeading {
+
+    max-width: 25rem;
+    height: 15rem;
+    margin-left: 60px;
+    margin-top: 8rem;
+
+    border-radius: 15px;
+
+}
+
+.css-ohwg9z {
+    height: 100vh;
+}
+
+.css-1m9128y {
+    width: 100%;
+    /* margin-top: 10px; */
+    text-align: center;
+    POSITION: RELATIVE;
+    top: -30px;
+}
+
+.homePageSubDiv {
+    margin: 0;
+    height: 100vh;
+    background-image: linear-gradient(to top, #1c1e1f91, #1314148a);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 10%;
+}
+
+.homePageContent {
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.homePageLogo {
+    position: relative;
+    top: -22%;
+    /* left: -40%; */
+    font-size: larger;
+    font-family: var(--logoFont);
+    font-weight: var(--logoFontWeight);
+    color: var(--color3);
+    /* height: 40px; */
+
+}
+
+.homePageButtonOutlined {
+    color: #abadad !important;
+    border: 2px solid #abadad !important;
+}
+
+.homePageButtonOutlined:hover {
+    color: var(--color1) !important;
+    border: 2px solid var(--color1) !important;
+}
+
+.quotes {
+    /* color: var(--color1); */
+    color: #abadad;
+    font-size: 2rem;
+}
+
+.homePageHeading h1 {
+    font-family: cursive;
+}
+
+.homePageHeading p {
+    font-size: xx-large;
+    color: #654E92;
+
+}
+
+.footer {
+    margin-top: 10rem;
+}

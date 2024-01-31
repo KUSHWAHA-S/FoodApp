@@ -1,0 +1,181 @@
+
+
+.add-item-container{
+    width: 50vw;
+    margin-left: 18rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:aliceblue;
+    box-shadow: 5px 5px 5px 5px rgb(162, 155, 155);
+}
+
+
+.item-name-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.quantity-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.item-price-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.description-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.food-type-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.category-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.item-name-label-add{
+    margin-left: 162px;
+    font-weight: bold;
+
+}
+
+.item-name-textfield-add{
+    margin-left: 80px!important;
+}
+
+.quantity-label-add{
+    margin-left: 160px;
+    font-weight: bold;
+
+}
+
+.quantity-textfield-add{
+    margin-left: 98px!important;
+
+}
+
+.item-price-label-add{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.item-price-textfield-add{
+    margin-left: 10px!important;
+
+}
+
+.description-label-add{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.description-textfield-add{
+    margin-left: 78px!important;
+    width: 220px;
+
+}
+
+.food-type-label-add{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.category-label-add{
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.category-dropdown-add{
+    margin-left: 95px!important;
+}
+
+.add-item-btn-div{
+    margin-bottom: 50px!important;
+    margin-top: 50px!important;
+    display: flex;
+}
+
+.add-item-btn{
+    margin-left: 280px!important;
+    margin-bottom: 30px!important;
+}
+
+.add-item-btn:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.additem-heading{
+    margin-left: 40px;
+}
+
+.back-to-itemlist-btn{
+    margin-left: 30px!important;
+}
+
+.back-to-itemlist-btn:hover{
+    background-color: rgb(67, 60, 150)!important;
+}
+
+.number-of-item-div-add{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.number-of-item-label-add{
+    margin-left: 159px;
+    font-weight: bold;
+}
+
+.number-of-item-textfield-add{
+    margin-left: 40px!important;
+}
+
+.add-category-dropdown{
+    margin-left: 85px!important;
+}
+.food-type-radio{
+    margin-left: 90px!important;
+}
+
+.hotbites-image-add{
+    width: 150px;
+    height: 150px;
+}
+
+.hotbites-logo-div-add{
+    margin-left: 5px;
+}
+
+.hotbite-heading-add{
+    margin-left: 4px;
+}
+
+.back-icon-btn:hover{
+    background-color:rgb(67, 60, 150)!important ;
+}
+
+.back-icon-div-add{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.error-message{
+    color: red;
+}
+

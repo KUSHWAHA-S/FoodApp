@@ -1,0 +1,30 @@
+.update-cat-category-div{
+    width: 50vw;
+    margin-left: 300px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    background-color:aliceblue;
+    box-shadow: 5px 5px 5px 5px rgb(162, 155, 155);
+    display: flex;
+    flex-direction: column;
+}
+.update-cat-category-outer-div{
+    width: 80vw;
+    height: 500px;
+    border: 1px;
+}
+
+.update-cat-category-btn{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.update-cat-category-text{
+    margin-top: 40px;
+}
+
+.back-icon-category-div{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.vendor-homepage-div{
+    display: flex!important;
+    flex-direction: column;
+    width: 90vw;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color:aliceblue;
+    box-shadow: 5px 5px 5px 5px rgb(162, 155, 155);
+}
+
+.view-shop-details-card{
+    margin-top: 20px;
+}
+

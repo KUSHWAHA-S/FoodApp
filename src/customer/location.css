@@ -1,0 +1,14 @@
+.back{
+    background-image: url("C:\GitRepoUi\hotbites-ui\src\asset\luxury-table-setting-focus-on-260nw-524159389.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.hotBites{
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
